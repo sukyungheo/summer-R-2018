@@ -18,23 +18,23 @@ y <- c(3.8, 5.9, 14.1, 10.4, 14.6,
      20.9, 29.9, 19.6, 31.3, 32.7)
 ```
 
-[MPG](../temp/MPG.csv) 
+[MPG](temp/MPG.csv) 
 
-[turkey](../temp/turkey.csv) 
+[turkey](temp/turkey.csv) 
 
-[prostate](../temp/prostate.csv)
+[prostate](temp/prostate.csv)
 
-[forestfires](../temp/forestfires.csv) 
+[forestfires](temp/forestfires.csv) 
 
-[credit](../temp/credit.txt) 
+[credit](temp/credit.txt) 
 
 [admission](http://stats.idre.ucla.edu/stat/data/binary.csv)
 
-[diabetes](../temp/diabetes.csv)
+[diabetes](temp/diabetes.csv)
 
 [Boston Housing Data](https://www.kaggle.com/c/boston-housing/data) 
 
-[Text data](../temp/txt.zip)
+[Text data](temp/txt.zip)
 
-[bankruptcy](../temp/bankruptcy.csv)
+[bankruptcy](temp/bankruptcy.csv)
 
